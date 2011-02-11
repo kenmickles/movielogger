@@ -226,6 +226,14 @@ function get_wikipedia_page($query) {
 		$(document).ready(function(){
 			// submit the form via ajax
 			$('#movie-form').submit(function(){
+				
+				// validate form
+				if ( $('#q').val() == '' ) {
+					alert("Please enter the name of a movie!");
+					$('#q').focus();
+					return false;
+				}
+				
 				var $form = $(this);
 				var params = $form.serialize();
 				
