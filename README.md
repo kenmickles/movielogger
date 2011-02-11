@@ -11,6 +11,6 @@ Why would you want to do this?
 -------------------------------
 OCD, mostly. Also for stuff like this:
 
-* (http://patrules.tumblr.com)
-* (http://jontomlinson.tumblr.com)
-* (http://kensmedialog.tumblr.com)
+* <http://patrules.tumblr.com>
+* <http://jontomlinson.tumblr.com>
+* <http://kensmedialog.tumblr.com>
