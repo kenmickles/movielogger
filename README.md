@@ -4,12 +4,13 @@ Silly little web app to log movies you watch to Tumblr. Input a movie name and i
 
 To setup:
 -------------------
-* Update config.ini with your own settings. You'll need a [Tumblr](http://tumblr.com) account and a [Yahoo API key](http://developer.yahoo.com/).
+Update config.ini with your own settings. You'll need a [Tumblr](http://tumblr.com) account and a [Yahoo API key](http://developer.yahoo.com/).
 
 
 Why would you want to do this?
 -------------------------------
-For stuff like this:
+OCD, mostly. Also for stuff like this:
 
-* http://patrules.tumblr.com/
-* http://jontomlinson.tumblr.com/
+* (http://patrules.tumblr.com)
+* (http://jontomlinson.tumblr.com)
+* (http://kensmedialog.tumblr.com)
