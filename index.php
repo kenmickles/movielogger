@@ -122,7 +122,7 @@ function get_caption($search, $comment=NULL) {
 		list($title, $url) = $wiki;
 		
 		// clean up title
-		$title = trim(str_replace(array('(Film)', '- Wikipedia, the free encyclopedia', '- Wikipedia'), '', $title));
+		$title = trim(str_ireplace(array('(Film)', '- Wikipedia, the free encyclopedia', '- Wikipedia'), '', $title));
 
 		// if possible, pull the year out of the search
 		$ex = explode(' ', $search);
